@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1752912273802,
+    "companyName": "ะำห",
+    "jobType": "งานเครื่องกล",
+    "contactInfo": "rsr",
+    "jobResponsibilities": "srsr",
+    "companyLogoUrl": "/image/1752912273798-161163673-images.jpg",
+    "createdAt": "2025-07-19T08:04:33.802Z"
+  },
+  {
+    "id": 1,
+    "companyName": "บริษัท ก่อสร้างรุ่งเรือง จำกัด",
+    "companyLogoUrl": "https://stock.adobe.com/search?k=path%20vector%20logo",
+    "jobResponsibilities": "รับเหมาก่อสร้างอาคารและถนน",
+    "jobType": "งานโยธา",
+    "contactInfo": "02-123-4567",
+    "createdAt": "2024-07-20T10:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "companyName": "ไฟฟ้าดีไซน์",
+    "companyLogoUrl": "",
+    "jobResponsibilities": "ติดตั้งระบบไฟฟ้าภายในอาคารครบวงจร",
+    "jobType": "งานไฟฟ้า",
+    "contactInfo": "contact@fahfahdesign.com",
+    "createdAt": "2024-07-19T14:30:00.000Z"
+  },
+  {
+    "id": 3,
+    "companyName": "ไอทีโซลูชั่นครบวงจร",
+    "companyLogoUrl": "",
+    "jobResponsibilities": "ดูแลระบบเครือข่ายและซอฟต์แวร์",
+    "jobType": "งานไอที",
+    "contactInfo": "support@itsolutions.co.th",
+    "createdAt": "2024-07-18T09:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "companyName": "Double A IT Solutions",
+    "companyLogoUrl": "",
+    "jobResponsibilities": "ดูแลระบบเครือข่ายและซอฟต์แวร์",
+    "jobType": "งานไอที",
+    "contactInfo": "support@itsolutions.co.th",
+    "createdAt": "2024-07-18T09:00:00.000Z"
+  }
+]
