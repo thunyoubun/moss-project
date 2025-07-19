@@ -35,7 +35,7 @@
     "contactInfo": "086-006-4253, sungkhomd@gmail.com",
     "createdAt": "2024-07-19T14:30:00.000Z"
   },
-{
+  {
     "id": 4,
     "companyName": "TRICK ELECTRIC ENGINEERING",
     "companyLogoUrl": "",
@@ -52,4 +52,5 @@
     "jobType": "งานเครื่องกล",
     "contactInfo": "gus_wheeler@hotmail.com, 0957130409",
     "createdAt": "2024-07-19T14:30:00.000Z"
-  },
+  }
+]
